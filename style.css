@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+    background-color: #F0F0F0;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.PartePaterna {
+    background: linear-gradient(90deg, #4DA0B0, #D39D38); 
+    color: #fff; /* Cor do texto */
+}
+
+.ParteMaterna {
+    background: linear-gradient(90deg, #191970, #00BFFF); 
+    color: #fff; /* Cor do texto */
+}
+
+.MeusPaiseEu {
+    background: linear-gradient(90deg, #556B2F, #F0E68C); 
+    color: #333; /* Cor do texto */
+}
